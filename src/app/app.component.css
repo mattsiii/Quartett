@@ -1,11 +1,26 @@
 
 
 .output{
-  padding-left: 10em;
-  position: absolute;
-  border: 5px solid #000000;
-  border-radius: 15px 15px 15px 15px;
-  box-sizing: border-box;
-  padding: 15px;
-  width: 320px;
+  position:absolute;
+  bottom:6.5em;
+  left:20em;
+  border: 4px solid #000000;
+  border-radius: 15px;
+  padding-left:5em;
+  padding-right:5em;
+  padding-top:3em;
+  padding-bottom: 3em;
+  background-color: lightgray;
+}
+.Über{
+  padding-bottom: 1em;
+
+}
+.bild{
+  border: 3px solid black;
+
+}
+.schrift {
+
+  padding-top: 2em;
 }
