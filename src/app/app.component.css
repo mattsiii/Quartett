@@ -1,26 +1,52 @@
-
-
 .output{
   position:absolute;
-  bottom:6.5em;
-  left:20em;
-  border: 4px solid #000000;
+  bottom:0em;
+  left:10em;
+  border: 2px solid #000000;
   border-radius: 15px;
-  padding-left:5em;
-  padding-right:5em;
-  padding-top:3em;
-  padding-bottom: 3em;
-  background-color: lightgray;
+  padding-left:2em;
+  padding-right:2em;
+  padding-top:-1em;
+  padding-bottom: -1em;
+  background-color:lightgray;
 }
-.Über{
-  padding-bottom: 1em;
-
+.header{
+  padding-bottom:0em;
 }
-.bild{
-  border: 3px solid black;
-
+.esb_img{
+  border: 2px solid #000000;
 }
-.schrift {
-
-  padding-top: 2em;
+.div_height{
+  margin:1em;
+}
+.div_floors{
+  margin:1em;
+}
+.div_elevators{
+  margin:1em;
+}
+.h1 {
+  padding-left: 18em;
+  position: fixed;
+}
+.div2_height{
+  margin:1em;
+}
+.div2_floors{
+  margin:1em;
+}
+.div2_elevators{
+  margin:1em;
+}
+.output2{
+  position:absolute;
+  bottom:0em;
+  left: 50em;
+  border: 2px solid #000000;
+  border-radius: 15px;
+  padding-left:2em;
+  padding-right:2em;
+  padding-top:-1em;
+  padding-bottom: -1em;
+  background-color:lightgray;
 }
